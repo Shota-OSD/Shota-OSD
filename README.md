@@ -1,8 +1,6 @@
 ## Hi there, I'm Shota 👋
 ### Here is my Portfolio 
 https://sore-titanium-435.notion.site/Portfolio-1bbd689111b680f2af77d30d2674aebc
-### 📊 Most Used Languages
-
 ### 🛠️ Tech Stack
 
 - **Languages:**  
