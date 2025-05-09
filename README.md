@@ -21,7 +21,6 @@ https://sore-titanium-435.notion.site/Portfolio-1bbd689111b680f2af77d30d2674aebc
 
 - **Machine Learning:**  
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
   ![NetworkX](https://img.shields.io/badge/NetworkX-1D3557?style=flat)
 
 - **DevOps:**  
