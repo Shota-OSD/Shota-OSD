@@ -1,6 +1,10 @@
 ## Hi there, I'm Shota 👋
-### Here is my Portfolio 
-https://sore-titanium-435.notion.site/Portfolio-1bbd689111b680f2af77d30d2674aebc
+### Here is my note 
+https://note.com/moral_wren8008
+
+### Here is my Zenn
+https://zenn.dev/03da
+
 ### 🛠️ Tech Stack
 
 - **Languages:**  
